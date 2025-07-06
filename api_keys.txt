@@ -1,0 +1,10 @@
+# LandingAI API Keys (one per line)
+# Get your API keys from: https://platform.landing.ai/
+# Each key gives you $10 in free credits (333 pages at $0.03/page)
+
+umm6ncm302zqucgqiaox8:rdgpa9OxOO60sF5u5tJRLYwQ7inUMMM8
+pm4r010t74nu13rpkarzt:FDvHk7YZWoAdhi7Qxqd6EQKPat2ObfWs
+qi0uhro74mudq326dlo3g:NNWhrtMIfF4zeEybbUIfSAOmoemzC5iQ
+va6in8e1sdcrqp6kyy0em:EDU2pn1qa7CW7vgZjTyZpgun1fb5HE4J
+9d0w6p7kj1wakjupzzoq8:Yt0lLCQExUqF3fY359rYv7S9pO558CE1
+lxzkqn4abxd88p47hcp6m:C3mTLjZhMV4e7WsXWa1kolMhYjNX6CAb

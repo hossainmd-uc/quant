@@ -1,0 +1,308 @@
+{
+  "data": {
+    "pages": [
+      {
+        "bbox": [
+          0,
+          0,
+          816,
+          1056
+        ],
+        "order": 0,
+        "chunks": [
+          {
+            "bbox": [
+              97,
+              133,
+              288,
+              173
+            ],
+            "label": "section_header",
+            "order": 0,
+            "caption": "O'Reilly Safari",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              371,
+              179,
+              444,
+              201
+            ],
+            "label": "section_header",
+            "order": 1,
+            "caption": "NOTE",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              98,
+              208,
+              693,
+              266
+            ],
+            "label": "text",
+            "order": 2,
+            "caption": "Safari (formerly Safari Books Online) is a membership-based training and reference platform for enterprise, government, educators, and individuals.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              97,
+              268,
+              712,
+              471
+            ],
+            "label": "text",
+            "order": 3,
+            "caption": "Members have access to thousands of books, training videos, Learning Paths, interactive tutorials, and curated playlists from over 250 publishers, including O'Reilly Media, Harvard Business Review, Prentice Hall Professional, Addison-Wesley Professional, Microsoft Press, Sams, Que, Peachpit Press, Adobe, Focal Press, Cisco Press, John Wiley & Sons, Syngress, Morgan Kaufmann, IBM Redbooks, Packt, Adobe Press, FT Press, Apress, Manning, New Riders, McGraw-Hill, Jones & Bartlett, and Course Technology, among others.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              98,
+              478,
+              577,
+              503
+            ],
+            "label": "text",
+            "order": 4,
+            "caption": "For more information, please visit http://oreilly.com/safari.",
+            "summary": null,
+            "crop_b64": null
+          }
+        ],
+        "crop_b64": null
+      },
+      {
+        "bbox": [
+          0,
+          0,
+          816,
+          1056
+        ],
+        "order": 1,
+        "chunks": [
+          {
+            "bbox": [
+              99,
+              138,
+              331,
+              168
+            ],
+            "label": "section_header",
+            "order": 0,
+            "caption": "How to Contact Us",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              97,
+              174,
+              634,
+              228
+            ],
+            "label": "text",
+            "order": 1,
+            "caption": "Please address comments and questions concerning this book to the publisher:",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              232,
+              310,
+              258
+            ],
+            "label": "list_item",
+            "order": 2,
+            "caption": "- O\u2019Reilly Media, Inc.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              277,
+              412,
+              301
+            ],
+            "label": "list_item",
+            "order": 3,
+            "caption": "1005 Gravenstein Highway North",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              320,
+              324,
+              345
+            ],
+            "label": "list_item",
+            "order": 4,
+            "caption": "- Sebastopol, CA 95472",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              363,
+              516,
+              385
+            ],
+            "label": "list_item",
+            "order": 5,
+            "caption": "- 800-998-9938 (in the United States or Canada)",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              407,
+              443,
+              429
+            ],
+            "label": "list_item",
+            "order": 6,
+            "caption": "- 707-829-0515 (international or local)",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              123,
+              449,
+              301,
+              471
+            ],
+            "label": "list_item",
+            "order": 7,
+            "caption": "- 707-829-0104 (fax)",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              97,
+              493,
+              696,
+              567
+            ],
+            "label": "text",
+            "order": 8,
+            "caption": "We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at http://bit.ly/python- finance-2e.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              99,
+              575,
+              649,
+              627
+            ],
+            "label": "text",
+            "order": 9,
+            "caption": "To comment or ask technical questions about this book, send email to bookquestions@oreilly.com.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              99,
+              633,
+              699,
+              684
+            ],
+            "label": "text",
+            "order": 10,
+            "caption": "For more information about our books, courses, conferences, and news, see our website at http://www.oreilly.com.",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              99,
+              693,
+              274,
+              713
+            ],
+            "label": "text",
+            "order": 11,
+            "caption": "Find us on Facebook:",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              274,
+              692,
+              501,
+              717
+            ],
+            "label": "text",
+            "order": 12,
+            "caption": "http://facebook.com/oreilly",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              98,
+              725,
+              532,
+              750
+            ],
+            "label": "text",
+            "order": 13,
+            "caption": "Follow us on Twitter: http://twitter.com/oreillymedia",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              101,
+              758,
+              589,
+              783
+            ],
+            "label": "text",
+            "order": 14,
+            "caption": "Watch us on YouTube: http://www.youtube.com/oreillymedia",
+            "summary": null,
+            "crop_b64": null
+          },
+          {
+            "bbox": [
+              101,
+              758,
+              589,
+              783
+            ],
+            "label": "text",
+            "order": 15,
+            "caption": "Watch us on YouTube: http://www.youtube.com/oreillymedia",
+            "summary": null,
+            "crop_b64": null
+          }
+        ],
+        "crop_b64": null
+      }
+    ],
+    "filename": null,
+    "total_openai_calls": 21,
+    "total_chunks": 21,
+    "total_pages": 2,
+    "processing_time": 9.563332319259644
+  }
+}

@@ -1,0 +1,59 @@
+# API Keys
+ALPACA_API_KEY=your_alpaca_api_key
+ALPACA_SECRET_KEY=your_alpaca_secret_key
+ALPACA_BASE_URL=https://paper-api.alpaca.markets  # Use paper trading initially
+
+IB_HOST=127.0.0.1
+IB_PORT=7497
+IB_CLIENT_ID=1
+
+BINANCE_API_KEY=your_binance_api_key
+BINANCE_SECRET_KEY=your_binance_secret_key
+
+# Document Processing
+LANDINGAI_API_KEY=your_landingai_api_key  # Get from https://landing.ai/agentic-document-extraction
+
+# Database Configuration
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=trading_system
+POSTGRES_USER=trader
+POSTGRES_PASSWORD=your_postgres_password
+
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_DB=0
+
+CLICKHOUSE_HOST=localhost
+CLICKHOUSE_PORT=8123
+CLICKHOUSE_DB=market_data
+
+# Kafka Configuration
+KAFKA_BOOTSTRAP_SERVERS=localhost:9092
+KAFKA_TOPIC_MARKET_DATA=market_data
+KAFKA_TOPIC_TRADES=trades
+KAFKA_TOPIC_SIGNALS=signals
+
+# ML/AI Configuration
+MLFLOW_TRACKING_URI=http://localhost:5000
+OPTUNA_STORAGE=sqlite:///optuna.db
+
+# Document Extraction Configuration
+AGENTIC_DOC_BATCH_SIZE=4
+AGENTIC_DOC_MAX_WORKERS=2
+AGENTIC_DOC_MAX_RETRIES=100
+AGENTIC_DOC_MAX_RETRY_WAIT_TIME=60
+AGENTIC_DOC_RETRY_LOGGING_STYLE=log_msg
+
+# Risk Management
+MAX_POSITION_SIZE=0.1  # 10% of portfolio
+MAX_DAILY_LOSS=0.05    # 5% daily loss limit
+MAX_DRAWDOWN=0.15      # 15% max drawdown
+
+# Logging
+LOG_LEVEL=INFO
+LOG_FORMAT=json
+
+# Environment
+ENVIRONMENT=development  # development, staging, production
+DEBUG=true 

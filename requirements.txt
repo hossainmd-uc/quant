@@ -1,0 +1,73 @@
+# Core Data Science & ML
+numpy>=1.24.0
+pandas>=2.1.0
+polars>=0.20.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Deep Learning & AI
+torch>=2.1.0
+torch-geometric>=2.4.0
+torchvision>=0.16.0
+transformers>=4.35.0
+stable-baselines3>=2.2.0
+optuna>=3.4.0
+mlflow>=2.8.0
+ray[tune]>=2.8.0
+
+# Financial & Trading
+quantlib>=1.32
+alpaca-trade-api>=3.0.0
+ib-insync>=0.9.86
+python-binance>=1.0.19
+yfinance>=0.2.24
+pandas-ta>=0.3.14b
+
+# Data Processing & Storage
+kafka-python>=2.0.2
+clickhouse-driver>=0.2.6
+redis>=5.0.1
+sqlalchemy>=2.0.23
+psycopg2-binary>=2.9.9
+
+# Web & API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+httpx>=0.25.0
+websockets>=12.0
+
+# Visualization & Monitoring
+plotly>=5.17.0
+dash>=2.14.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+bokeh>=3.3.0
+
+# Performance & Optimization
+numba>=0.58.0
+cython>=3.0.0
+joblib>=1.3.0
+dask>=2023.11.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+black>=23.10.0
+flake8>=6.1.0
+mypy>=1.7.0
+pre-commit>=3.5.0
+
+# Document Processing & AI
+agentic-doc>=0.1.0
+PyPDF2>=3.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+click>=8.1.0
+tqdm>=4.66.0
+loguru>=0.7.0
+pytz>=2023.3 
